@@ -18,7 +18,7 @@ function kalkulator($x, $y, $operasi) {
 
 // Array perhitungan dengan keterangan operasi
 $perhitungan = [
-    ['Penjumlahan', 10, 15, '+'],
+    ['Penjumlahan', 20, 15, '+'],
     ['Pengurangan', 11, 8, '-'],
     ['Perkalian', 8, 4, '*'],
     ['Pembagian', 8, 2, '/'],
